@@ -44,7 +44,7 @@ blockquote {
     hanging-punctuation: first;
     text-indent: -0.6rem;
     margin: 4rem 0 2rem 0;} */
-    margin: 4rem 0 2rem 0;} 
+     
 
 /*-- navigation --*/
 .responsivenav 
@@ -54,9 +54,36 @@ blockquote {
     font-display: flex;
     justify-content: space-between;
     align-items: center;
-    
+    }
+#logo 
+    {
+    font-size: 2rem;
+    color: #f7f7f7;
+    font-family: 'merriweather', serif;
+    font-weight: 600;
+    padding-left: 35px;    
     }
 
+nav {
+    display: flex;
+    padding: 1.5rem 0;
+    font-size: 0.8rem;
+    }
+
+nav ul
+    {
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    list-style-type: none;
+    padding-right: 70px;
+    }
+
+nav ul li
+    {
+    display: inline;
+    margin-top: 5px;
+    }
 
 
 
