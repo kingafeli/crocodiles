@@ -46,6 +46,21 @@ blockquote {
     margin: 4rem 0 2rem 0;} */
     margin: 4rem 0 2rem 0;} 
 
+/*-- navigation --*/
+.responsivenav 
+    {
+    background: #743b09;
+    padding-bottom: 10px;
+    font-display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    }
+
+
+
+
+
 /* footer {
 footer {
     text-align: center;
