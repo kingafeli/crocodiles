@@ -1,3 +1,5 @@
+
+
 h1 {font-size: 7.594rem;
     line-height: 1.1;
     color: #AE821C;
@@ -7,6 +9,11 @@ h1 {font-size: 7.594rem;
 h2 {font-size: 2.250rem;
     margin: 6rem 0 2rem 0;}
 
+header, section {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
 /* header h2 {
 header h2 {
     font-family: "Merriweather Sans", sans-serif;
